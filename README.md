@@ -7,7 +7,7 @@ This design (perhaps some of it makes its way back into AF proper?) aims for the
 
 ### Strictly-typed APIs when the actor type is known. (A message enqueuer doesn't say what messages are accepted)
 
-![Static API Example](doc/StaticApi.png)
+![Static API Example](doc/StaticAPI.png)
 
 This is ticket #1. I want to be able to (and someone using a component I've written) to be able to work in the block diagram more and rely less on 3rd party tooling and project navigation. Especially as actors and app hierarchies grow messaging capabilities get spread across interfaces and ancestor layers which can complicate finding messages. I also work in an environment that has bastardized usage of AF so I could be 100% wrong about how much of an issue this is.
 
