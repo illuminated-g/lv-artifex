@@ -1,6 +1,8 @@
 # lv-artifex
 Alternative actor model for LabVIEW
 
+This readme will call out all the static & strictly-typed designs that went into this experiment but all the abstract messaging / "standard" mechanisms exist similarly to AF as well. e.g. Actors provide a static / strictly-typed launch nested VI but the generic Launch Nested still exists at the abstract Actor parent level as well for times when actors are handled abstractly.
+
 ## Design Goals
 
 This design (perhaps some of it makes its way back into AF proper?) aims for the following goals:
