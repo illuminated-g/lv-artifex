@@ -3,6 +3,7 @@
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Artifex.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Artifex.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+"!!!*Q(C=\&gt;1R&lt;B."&amp;-&lt;R,YC6)H?_!&lt;B"=E(TKJ2)&lt;B"&amp;KCWYQ"-XM/T+J57410=+&gt;ZD#TAV]B6&gt;Q!6`":53"&lt;0Y\':N))+5B%B+:]4D?&lt;W@G`&lt;+\7KGU=_GZ$A_VJBF?8L;4S81[84?`N?\]2,8^;!Z&gt;V+7`PJJGKO(C^H9RV,I\\$\.X&lt;4G&gt;,Z&gt;,.KB&lt;JJ$[35^.-@V8^1/;7UZXRR8(ZLDT/7R`P&amp;]K8SP`H+^PPGWX__8@`$LK4WV`\P.(HI&amp;0$\B4.W,C*'-9$D$V*5_*(G3*XG3*XG3"XG1"XG1"XG1/\G4/\G4/\G4'\G2'\G2'\G2FUYO=J',(&amp;*30#G5&lt;*JME%S'IO1L]33?R*.Y/&amp;4C34S**`%E(K9I]33?R*.Y%A`,F(A34_**0)G(L9IE3S@(EXD98I%H]!3?Q".Y++H!%Q##9M('Q39Q&amp;*Q-@A3?Q".Y_+H!%XA#4_!*0*R7Y!E]A3@Q""[7F+M32&gt;.V=DRM)]@D?"S0YX%]&lt;#X(YXA=D_.R0*34YX%]$M)J['Q/1=YC:Y*TY(A=$X`E?"S0YX%]DI&gt;4Z1ZZO4+&gt;JOPE?!S0Y4%]BM@QM)5-D_%R0)&lt;(],#N$)`B-4S'R`"13I&lt;(]"A?!W)5J&lt;S-T9S&amp;RC1D-$R]SN.CZ3Z&amp;E6DJ5HVY62^+V9&gt;.^3&amp;3@4B5&lt;\LKT63^3;I88`7CKFYMV9OA_M_JIF5RKE65&amp;X=4N?.\S^AQ6IQZ9]RI'30'A.(PFP\FC&lt;P&gt;4NPN6JP.2KP63P0Z8/0R7'X&lt;;D1;;4!9K.`PHVY$,_CH&amp;],&gt;?WFWLL.:\^8&amp;ZX=@XHT[_08^&gt;?`FW_P?[YOL\W8/9\&gt;`Y.WI:\J@BWPU%V&gt;G(@]!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
@@ -18,13 +19,13 @@
 		<Item Name="Artifex.lvlib:Actor API.lvclass" Type="Friended Library" URL="../../Actor Proxy/Actor API.lvclass"/>
 	</Item>
 	<Item Name="Do.vi" Type="VI" URL="../Do.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;B!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#F.U&lt;X!A17.U&lt;X)!!$"!=!!?!!!&gt;$5&amp;S&gt;'FG:8AO&lt;(:M;7).17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!*17.U&lt;X)A4X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$"!=!!?!!!&gt;$5&amp;S&gt;'FG:8AO&lt;(:M;7).17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!)17.U&lt;X)A37Y!!$2!=!!?!!!@$5&amp;S&gt;'FG:8AO&lt;(:M;7)0476T=W&amp;H:3ZM&gt;G.M98.T!!J.:8.T97&gt;F)'FO!!"5!0!!$!!$!!1!"1!'!!9!"A!'!!9!"Q!'!!A!#1)!!(A!!!U)!!!*!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!)!!!!E!!!!!!"!!I!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;B!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#F.U&lt;X!A17.U&lt;X)!!$"!=!!?!!!&gt;$5&amp;S&gt;'FG:8AO&lt;(:M;7).17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!*17.U&lt;X)A4X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$"!=!!?!!!&gt;$5&amp;S&gt;'FG:8AO&lt;(:M;7).17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!)17.U&lt;X)A37Y!!$2!=!!?!!!@$5&amp;S&gt;'FG:8AO&lt;(:M;7)0476T=W&amp;H:3ZM&gt;G.M98.T!!J.:8.T97&gt;F)'FO!!"5!0!!$!!$!!1!"1!'!!9!"A!'!!9!"Q!'!!A!#1)!!(A!!!U)!!!*!!!!$1I!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!+!!!!E!!!!!!"!!I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082401280</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 	</Item>
 	<Item Name="Drop Message Static.vi" Type="VI" URL="../Drop Message Static.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#5!!!!!Q!%!!!!.%"Q!"Y!!"].18*U;7:F?#ZM&gt;GRJ9A^.:8.T97&gt;F,GRW9WRB=X-!#EVF=X.B:W5A;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!!!%!!A!!!!!</Property>
