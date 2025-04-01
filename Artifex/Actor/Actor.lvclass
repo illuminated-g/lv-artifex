@@ -3,7 +3,6 @@
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Artifex.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Artifex.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)J!!!*Q(C=\&gt;4"E&gt;J!%)8B:Z=0PJ+"C_M?/Q63))6/A3N(5HAJE)++$$I&amp;5C!&amp;_&gt;?ICW6&gt;LO7S&gt;LH++T&amp;#0'GG0U;KE=&lt;W8@KG_&gt;FW?8?&lt;ZZ@Z/,]M*Z@V-+_(_UE0-NK&lt;TXKA^W5_XJ0,Q`8(`OPB&gt;`X8_BX/;``8;E`^_NQ_N`^\/TZ&lt;!PY]Y9O7B9B7../3&amp;FJ+TU6?Z%6?Z%6?Z#9XO=F.&lt;H+4*XG3*XG3*XG3"XG1"XG1"XG1DZV=Z#)8/;3C?&amp;'I',19I,A:CIJ$Y3E]B;@Q]&amp;/&amp;J`!5HM*4?,B&amp;B;@Q&amp;*\#5XDIJM*4?!J0Y3E]$$5E.8:S0)7(Y75]RG-]RG-]F*4R')!J:A9WA]#1O7B/D-&gt;YD)&gt;4'9`R')`R'!_8:4T'9TT'9TRU'&lt;0CI6FW=DQ-I]34?"*0YEE]$+X%EXA34_**0*24YEE]#3)JG!Q/15GHZ)&lt;E2_**0(QJ]33?R*.Y%A_8RB0+-4/,:NH*]13?Q".Y!E`A91A&amp;HM!4?!*0Y'&amp;9":\!%XA#4_#BF!*0Y!E]!31I3HE&amp;AQ5&gt;AZO#)0$Q'7^,D+@E)9GR3`XSKF^+^=OG@IH5,Y@[I;M@JPIBK3&gt;@0;HKS6*0APL0K&gt;&amp;KD,K)OP.SIWY=L\3*&gt;K;&gt;;!@;HL;D&lt;7G&lt;J?M(XXC\X83^8D6.E]\HMU[HEQ[(A`&lt;\P8;\H&lt;&lt;&lt;L4;&lt;T8U:_-&amp;_8R"?V[8JF`6I_GPLUL_Q.OKL(OMQ2T]"*H'&lt;BA!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
